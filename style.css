@@ -35,7 +35,7 @@ body {
   width: 110px;
 }
 
-.img-container::after {
+/*.img-container::after {
   content: "";
   background-color: #fff;
   border-radius: 50%;
@@ -45,7 +45,7 @@ body {
   width: 20px;
   height: 20px;
   transform: translate(-50%, 50%);
-}
+}*/
 
 .img-container img {
   border-radius: 50%;
